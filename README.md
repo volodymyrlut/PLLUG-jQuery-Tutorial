@@ -1,3 +1,4 @@
 # PLLUG-jQuery-Tutorial
-##Simple jQuery tutorial for PLLUG web branch community
+##Simple jQuery tutorial for PLLUG web branch community (UA)
 ###Функції
+####В java script функції бувають іменованими або анонімними. Іменовані функції доступні в усій області видимості, в якій знаходяться, анонімні- тільки після їх оголошення. Найчастіше анонімні функції запускаються самі за допомогою `(function(){}())` структури.
