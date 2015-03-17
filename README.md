@@ -32,7 +32,7 @@ $("#some_id").click(fubction(){			//функція-хендлер події к�
 ```
 
 ###Корисні лінки
-######* [Трішки більше про функції](http://javascript.ru/basic/functions) 
+* [Трішки більше про функції](http://javascript.ru/basic/functions) 
 * [Набагато більше про об'єкти](http://javascript.ru/tutorial/object/intro)
 * [Офіційна документація по jQuery](http://api.jquery.com/)
 * [Антон Шевчук, “jQuery для початківців”](http://anton.shevchuk.name/jquery-book/)
