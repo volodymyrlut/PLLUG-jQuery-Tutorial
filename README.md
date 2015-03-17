@@ -1,2 +1,3 @@
 # PLLUG-jQuery-Tutorial
-Simple jQuery tutorial for PLLUG web branch community
+##Simple jQuery tutorial for PLLUG web branch community
+###Функції
