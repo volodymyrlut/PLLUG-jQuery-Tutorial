@@ -1,0 +1,54 @@
+/* *{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	text-shadow: none;
+} */
+/* Нічого особливого, звичайне обнуляння стилів (скидаю стилі браузера) */
+
+
+.box {
+  margin-top: 20px;
+  width: 456px;
+  border: solid 1px transparent;
+}
+.box > div {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: solid 2px gray;
+  margin: 5px;
+  text-align: center;
+  font: bold 24px/100px Tahoma;
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+
+/*розміщую всі блоки, на які поширюється правило по центру відносно батьківських елментів*/
+
+/* #field{
+	width: 600px;
+	height: 600px;
+	background-color: #ccc;
+	Так можна вирівнювати елемент по вертикалі і горизонталы
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -300px;
+	margin-left: -300px;
+}
+id для одного, class для багатьох
+.button{
+	display: inline-block;
+	margin: 5px;
+	width:140px;
+	height: 140px;
+	border-radius: 5px;
+	color: #ccc;
+	background-color: #0a1c1e;
+	font-size: 70px;
+}
+.button.light{
+	background-color: #ccc;
+	z-index: 1;
+} */
